@@ -3,3 +3,7 @@ pcf:
     var1: "test9"
   var2:
     var1: "test2"
+postgres:
+  userID: "postgres"
+  password: "Tibco123."
+  jdbcConnection: "jdbc:postgres://107.21.79.146:5432/tibco_test"
