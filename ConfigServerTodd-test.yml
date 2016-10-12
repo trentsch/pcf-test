@@ -4,4 +4,4 @@ pcf:
   var2:
     var1: "test2"
   postgres:
-    var3: "postgres"
+    userid: "postgres"
