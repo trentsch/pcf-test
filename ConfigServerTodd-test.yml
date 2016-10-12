@@ -3,5 +3,5 @@ pcf:
     var1: "test9"
   var2:
     var1: "test2"
-  var3:
+  postgres:
     var3: "postgres"
