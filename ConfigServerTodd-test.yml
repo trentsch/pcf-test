@@ -5,3 +5,4 @@ pcf:
     var1: "test2"
   postgres:
     userID: "postgres"
+    passtype: "testing"
